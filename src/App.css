@@ -1,0 +1,20 @@
+.courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /* In App.css or a similar global CSS file */
+  .edu-tas-beginner-unique {
+    font-family: "Edu TAS Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400; /* You can change this to 500, 600, or 700 as needed */
+    font-style: normal;
+  }
+  
+  .sedan-sc-regular {
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
